@@ -21,7 +21,7 @@
     "name": "BAFS HAINTEKO TB-3 MINI",
     "sTitel": "INNOVATIVE TECH · HAINO TEKO · News · Sennheiser CX 400BT review: Great-sounding mid-range wireless earbuds · Apple Watch SE hands-on: The 'greatest hits' wearable.",
     "price": 3500,
-    "best": false,
+    "best": true,
     "type": "speakers",
     "imgs": [
       "https://i0.wp.com/jmsgros.com/wp-content/uploads/2025/03/312472_17dce9b9e46b47bc80cff325974b88edmv2.jpeg?fit=946%2C946&ssl=1",
@@ -37,7 +37,7 @@
     "name": "MINI PRINTER X1",
     "sTitel": "INNOVATIVE TECH · HAINO TEKO · News · Sennheiser CX 400BT review: Great-sounding mid-range wireless earbuds · Apple Watch SE hands-on: The 'greatest hits' wearable.",
     "price": 3000,
-    "best": false,
+    "best": true,
     "type": "imprimante",
     "imgs": [
       "https://i0.wp.com/jmsgros.com/wp-content/uploads/2024/10/c00b5fe9-9137-4c2a-a6ea-e43273fd8605.jpg?fit=800%2C800&ssl=1",
@@ -53,7 +53,7 @@
     "name": "KIT VIDEO AY-49",
     "sTitel": "D’enregistrement Vidéo Pour Smartphones AY-49",
     "price": 1500,
-    "best": false,
+    "best": true,
     "type": "photographie",
     "imgs": [
       "https://i0.wp.com/jmsgros.com/wp-content/uploads/2024/10/Capture-decran-2024-10-18-192246.jpg?w=626&ssl=1",
@@ -68,7 +68,7 @@
     "name": "BOX PHOTO PRO 40CM",
     "sTitel": "D’enregistrement Vidéo Pour Smartphones AY-49",
     "price": 6000,
-    "best": false,
+    "best": true,
     "type": "photographie",
     "imgs": [
       "https://i0.wp.com/jmsgros.com/wp-content/uploads/2025/04/PU5041B_2.jpg?fit=750%2C750&ssl=1",
@@ -84,7 +84,7 @@
     "name": "MICRO BLT BOYA 2PC",
     "sTitel": "D’enregistrement Vidéo Pour Smartphones AY-49",
     "price": 2300,
-    "best": false,
+    "best": true,
     "type": "photographie",
     "imgs": [
       "https://i0.wp.com/jmsgros.com/wp-content/uploads/2025/01/81058e8d4b5b93841c1f18d46d0bca3b.jpg_720x720q80-600x600-1.jpg?w=600&ssl=1",
@@ -99,7 +99,7 @@
     "name": "SUP MOTO POCH NEW",
     "sTitel": "D’enregistrement Vidéo Pour Smartphones AY-49",
     "price": 2900,
-    "best": false,
+    "best": true,
     "type": "phone-holder",
     "imgs": [
       "https://i0.wp.com/jmsgros.com/wp-content/uploads/2025/04/Capture-decran-2025-04-12-161809.png?w=621&ssl=1",
@@ -114,7 +114,7 @@
     "name": "SUP VELO XY-088",
     "sTitel": "D’enregistrement Vidéo Pour Smartphones AY-49",
     "price": 400,
-    "best": false,
+    "best": true,
     "type": "phone-holder",
     "imgs": [
       "https://i0.wp.com/jmsgros.com/wp-content/uploads/2023/12/3c00914a3aea538ae9b6c392be27ee80.jpg?fit=1000%2C1000&ssl=1",
@@ -130,26 +130,12 @@
     "name": "Test abdelbari",
     "sTitel": "Hada lokam matachrih h tmout",
     "price": 5000,
-    "best": false,
+    "best": true,
     "type": "",
     "imgs": [
       "https://firebasestorage.googleapis.com/v0/b/tawssilatrest.appspot.com/o/images%2F1751422718173-1000971899.jpg?alt=media&token=5221328c-304a-46dc-9698-aefba53e0c8f"
     ],
     "date": "2025-07-02T02:18:56.125Z",
-    "__v": 0
-  },
-  {
-    "_id": "68672e0cba13aba5ed500044",
-    "userId": "6858ae003029ceb27f48115b",
-    "name": "lkslqk",
-    "sTitel": "",
-    "price": 0,
-    "best": false,
-    "type": "",
-    "imgs": [
-      "https://i.ibb.co/1Gn4Hcmx/IMG-20250502-WA0002.jpg"
-    ],
-    "date": "2025-07-04T01:27:40.055Z",
     "__v": 0
   }
 ]
