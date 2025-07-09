@@ -37,7 +37,7 @@
     "name": "MINI PRINTER X1",
     "sTitel": "INNOVATIVE TECH · HAINO TEKO · News · Sennheiser CX 400BT review: Great-sounding mid-range wireless earbuds · Apple Watch SE hands-on: The 'greatest hits' wearable.",
     "price": 3000,
-    "best": false,
+    "best": true,
     "type": "imprimante",
     "imgs": [
       "https://i0.wp.com/jmsgros.com/wp-content/uploads/2024/10/c00b5fe9-9137-4c2a-a6ea-e43273fd8605.jpg?fit=800%2C800&ssl=1",
@@ -85,7 +85,7 @@
     "name": "MICRO BLT BOYA 2PC",
     "sTitel": "D’enregistrement Vidéo Pour Smartphones AY-49",
     "price": 2300,
-    "best": false,
+    "best": true,
     "type": "photographie",
     "imgs": [
       "https://i0.wp.com/jmsgros.com/wp-content/uploads/2025/01/81058e8d4b5b93841c1f18d46d0bca3b.jpg_720x720q80-600x600-1.jpg?w=600&ssl=1",
@@ -100,7 +100,7 @@
     "name": "SUP MOTO POCH NEW",
     "sTitel": "D’enregistrement Vidéo Pour Smartphones AY-49",
     "price": 2900,
-    "best": false,
+    "best": true,
     "type": "phone-holder",
     "imgs": [
       "https://i0.wp.com/jmsgros.com/wp-content/uploads/2025/04/Capture-decran-2025-04-12-161809.png?w=621&ssl=1",
